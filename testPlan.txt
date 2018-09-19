@@ -1,4 +1,6 @@
-Input: {22, 21, 35, 55, 52}
-Output: {55, 52, 35, 22, 21}
-
-
+	  Input								   Output							Test Condition
+{32, 33, 34, 65, 21}				{65, 34, 33, 32, 21}						Typical
+null								throws IllegalArgumentException				Exception
+{0, 0, 0, 0, 0}						{0, 0, 0, 0, 0}								Typical
+{}									Nothing										Typical
+{-1, 7, 4, -2, 5}					{7, 5, 4, -1, -2}							Typical
