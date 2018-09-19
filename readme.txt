@@ -1,6 +1,6 @@
 Write a method that will sort an array.
 
-Am I completing this correctly?
+Am I completing this correctly? - we will see
 
 
 
